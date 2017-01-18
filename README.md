@@ -1,2 +1,2 @@
 # Racket-Games
-Directory containing games written in Racket.
+Directory containing a few games that I wrote in Racket after finishing the Fundamentals of Computer Science I course.
